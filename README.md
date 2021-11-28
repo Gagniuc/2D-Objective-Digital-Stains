@@ -1,5 +1,5 @@
 # 2D Objective Digital Stains
-2D Objective Digital Stains
+A 2D Objective Digital Stain is able to show the information structure of a DNA or RNA sequence in a graphical manner. In this case, the ODS is computed using the local frequency of the symbols from a sliding window.
 
 # Live demo
 https://gagniuc.github.io/2D-Objective-Digital-Stains/
